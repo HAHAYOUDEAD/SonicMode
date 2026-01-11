@@ -1,7 +1,8 @@
-﻿namespace SonicMode;
+﻿using MelonLoader;
 
-[TheLongDarkMods.ModClass]
-internal sealed partial class Implementation
+namespace SonicMode;
+
+internal sealed partial class Implementation : MelonMod
 {
 	public override void OnInitializeMelon()
 	{
