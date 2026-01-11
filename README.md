@@ -11,3 +11,5 @@ Install [MelonLoader](https://github.com/LavaGang/MelonLoader) if it's your firs
 Get the latest [release]([https://github.com/HAHAYOUDEAD/Personality/releases](https://github.com/HAHAYOUDEAD/SonicMode/releases)) and put the .dll into `.../Mods/`
 
 Requires [ModSettings]([https://github.com/zeobviouslyfakeacc/ModSettings/releases](https://github.com/DigitalzombieTLD/ModSettings/)) (also just drop its .dll into `.../Mods/`)
+
+<img width="480" height="403" alt="изображение" src="https://github.com/user-attachments/assets/4d7029e6-1a3e-4c19-a1dd-34fbd29fe3a9" />
